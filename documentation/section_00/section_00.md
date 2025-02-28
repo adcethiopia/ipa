@@ -4,13 +4,13 @@ The following modules can be assembled on a prototype board or breadboard to dev
 
 | Description                                               | Sample Image                                                 |
 | --------------------------------------------------------- | ------------------------------------------------------------ |
-| Espressif ESP32 DevKitC microcontroller development board | ![esp32_devkitc](/home/riyadh/Downloads/esp32_devkitc.png)   |
-| SIM800L GPRS module                                       | ![sim800l](/home/riyadh/Downloads/sim800l.png)               |
-| ST7789 display module                                     | ![st7789_module](/home/riyadh/Downloads/st7789_module.png)   |
+| Espressif ESP32 DevKitC microcontroller development board | ![esp32_devkitc](esp32_devkitc.png)   |
+| SIM800L GPRS module                                       | ![sim800l](sim800l.png)               |
+| ST7789 display module                                     | ![st7789_module](st7789_module.png)   |
 | Pushbutton switches                                       | ![push_button_swith](/home/riyadh/Downloads/push_button_swith.png) |
-| 5V DC-DC converter (needed to drive a thermal printer)    | ![power-module](/home/riyadh/Downloads/power-module.png)     |
+| 5V DC-DC converter (needed to drive a thermal printer)    | ![power-module](power-module.png)     |
 | Thermal printer module with TTL serial interface          | ![thermal_printer_module](/home/riyadh/Downloads/thermal_printer_module.png) |
-| Lithium battery 3.7V                                      | ![lithium_battery](/home/riyadh/Downloads/lithium_battery.png) |
+| Lithium battery 3.7V                                      | ![lithium_battery](lithium_battery.png) |
 
 ### Schematics
 
