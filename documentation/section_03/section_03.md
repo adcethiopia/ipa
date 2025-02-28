@@ -1,6 +1,6 @@
-## Example snippets
+## Example Snippets
 
-# Read Keys
+### Read Keys
 
 ```python
 import time
@@ -21,7 +21,7 @@ while True:
     time.sleep(0.3)
 ```
 
-# Display Bitmap
+### Display Bitmap
 
 ```python
 import ui_lcd
@@ -41,7 +41,7 @@ x_pos, y_pos, width, height = 0, 0, 134, 240
 # display the bitmap
 ui_lcd.show_pixbuffer(display, image_fbuf, x_pos, y_pos, width, height)
 ```
-# Send SMS
+### Send SMS
 ```python
 import sim808
 import sms
@@ -53,7 +53,7 @@ if gsm_status:
 else:
 	print('Unable to register on the mobile network')
 ```
-# Receive SMS
+### Receive SMS
 ```python
 import sim808
 import sms
@@ -66,7 +66,7 @@ if gsm_status:
 else:
 	print('Unable to register on the mobile network')
 ```
-# Send HTTPS GET/POST
+### Send HTTPS GET/POST
 ```python
 get_url = 'https://httpbin.org/ip'
 post_url = 'https://httpbin.org/post'
