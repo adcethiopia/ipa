@@ -1,5 +1,5 @@
 # Introduction
-This system is based on operating software developed using Micropython on the ESP-32 microcontroller platform, and SIMCom SIM800C, PN532 NFC, and ST7789 display hardware modules. A generic 58mm thermal printer supporting a UART interface can be used for receipt printing. Development kits for all of these components are widely available.
+This system is based on operating software developed using Micropython on the ESP-32 microcontroller platform, and SIMCom SIM800C, PN532 NFC, and ST7789 display hardware modules. A generic 58mm thermal printer supporting a UART interface can be used for receipt printing. Development kits for all of these components are widely available. It is intended to be a platform over with various applications such as airtime vouchers and ticketing can be developed. 
 # Hardware Components
 The reference design is based on the following components. 
 ## ESP32 Micropython development boards
