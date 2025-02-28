@@ -18,17 +18,17 @@ The schematics show how the components should be wired together, in order to run
 
 #### Power Module
 
-![dc_dc_converter](/home/riyadh/Downloads/Wurii Schematics/dc_dc_converter.png)
+![dc_dc_converter](dc_dc_converter.png)
 
 #### Display and Keypad
 
-![esp32_display_keypad](/home/riyadh/Downloads/Wurii Schematics/esp32_display_keypad.png)
+![esp32_display_keypad](esp32_display_keypad.png)
 
 #### GPRS Module
 
-![esp32_devkit_sim800](/home/riyadh/Downloads/Wurii Schematics/esp32_devkit_sim800.png)
+![esp32_devkit_sim800](esp32_devkit_sim800.png)
 
 #### Thermal Printer
 
-![esp32_thermal_printer](/home/riyadh/Downloads/Wurii Schematics/esp32_thermal_printer.png)
+![esp32_thermal_printer](esp32_thermal_printer.png)
 
