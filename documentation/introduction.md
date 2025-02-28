@@ -1,5 +1,5 @@
 # Introduction
-The operating software is developed using Micropython on the ESP-32 microcontroller platform with SIMcom SIM800C GSM and a PN532 based NFC boards. The reference display is a 240x135 lCD module based on the ST7789 display driver chip. A generic 58mm thermal printer supporting a UART interface can be used for receipt printing. Development kits for all of these components are widely available.
+This system is based on operating software developed using Micropython on the ESP-32 microcontroller platform, and SIMCom SIM800C, PN532 NFC, and ST7789 display hardware modules. A generic 58mm thermal printer supporting a UART interface can be used for receipt printing. Development kits for all of these components are widely available.
 # Hardware Components
 The reference design is based on the following components. 
 ## ESP32 Micropython development boards
