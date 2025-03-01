@@ -3,11 +3,11 @@ The development of a system can be started by putting together the different har
 
 [Hardware Modules](https://github.com/adcethiopia/ipa/blob/main/documentation/section_00/section_00.md)
 
-![Preparing the ESP32 DevKitC and Development Environment](https://github.com/adcethiopia/ipa/blob/main/documentation/section_01/section_01.md)
+[Preparing the ESP32 DevKitC and Development Environment](https://github.com/adcethiopia/ipa/blob/main/documentation/section_01/section_01.md)
 
-![Using the REPL](https://github.com/adcethiopia/ipa/blob/main/documentation/section_01/section_02.md)
+[Using the REPL](https://github.com/adcethiopia/ipa/blob/main/documentation/section_01/section_02.md)
 
-![Example Code Snippets](https://github.com/adcethiopia/ipa/blob/main/documentation/section_01/section_03.md)
+[Example Code Snippets](https://github.com/adcethiopia/ipa/blob/main/documentation/section_01/section_03.md)
 
 The links below can be used as further references to aid in this process.
 
