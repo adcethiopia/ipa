@@ -1,7 +1,7 @@
 # Getting Started
 The development of a system can be started by putting together the different hardware modules on a prototype or breadboard, and loading the software in this repository on to the microcontroller module (in the case of this reference platform an ESP32 DevkitC). The microcontroller can be accessed using terminal software on a PC. The sections in this directory describe this process.
 
-![Hardware Modules](https://github.com/adcethiopia/ipa/blob/main/documentation/section_00/section_00.md)
+[Hardware Modules](https://github.com/adcethiopia/ipa/blob/main/documentation/section_00/section_00.md)
 
 ![Preparing the ESP32 DevKitC and Development Environment](https://github.com/adcethiopia/ipa/blob/main/documentation/section_01/section_01.md)
 
